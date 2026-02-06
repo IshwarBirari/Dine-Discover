@@ -38,9 +38,6 @@ From project root:
 ```bash
 php -S localhost:8000 -t public
 ```
-Open:
--[ http://localhost:8000](http://localhost/dine-discover/public/index.php)
-
 ## Notes
 - Cache is stored in `public/cache/` (safe to delete).
 - Favorites are tied to your browser session id.
