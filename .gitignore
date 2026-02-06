@@ -1,0 +1,6 @@
+/.env
+/public/cache/
+/vendor/
+*.log
+.DS_Store
+Thumbs.db

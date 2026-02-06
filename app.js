@@ -1,0 +1,1 @@
+(function(){const f=document.querySelector("form[data-search-form]");if(!f)return;const b=f.querySelector("button[type=submit]");const l=document.querySelector("[data-loading]");f.addEventListener("submit",()=>{if(b)b.disabled=true;if(l)l.style.display="block";});})();
